@@ -1,3 +1,5 @@
+![FLUX Logo](https://i.imgur.com/ofZ6YlT.png)
+
 # The Fluxathon Archive
 Welcome to the Fluxathon Archive! This repository serves as a comprehensive collection of past Fluxathon projects and themes, accompanied by their corresponding judging rubrics. Whether you are a current or prospective student at SCAD, this repository is designed to provide you with a wealth of ideas and inspiration for your own creative journey.
 
